@@ -1,6 +1,6 @@
 {
     "plugin_version": "7.2.9",
     "changelog": "either a link to the changelog html or simple text",
-    "package_download_url": "https://bintray.com/artifact/download/fyber/mobile-sdk/FyberUnityPlugin-7.2.9.zip"
+    "package_download_url": "https://bintray.com/artifact/download/fyber/mobile-sdk/FyberUnityPlugin-7.2.9.zip",
     "zip_name": "FyberUnityPlugin-7.2.9.zip"
 }

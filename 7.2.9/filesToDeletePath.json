@@ -1,4 +1,4 @@
-[
+{"filesTodeleteList": [
     "Assets/Demo",
     "Assets/Demo/SPUser.unity",
     "Assets/Demo/SponsorPaySDKDemo.cs",
@@ -103,3 +103,4 @@
     "Assets/SponsorPay/iOS/SponsorPayUnityPlugin.h",
     "Assets/SponsorPay/iOS/SponsorPayUnityPlugin.mm"
 ]
+}

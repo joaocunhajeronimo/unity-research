@@ -1,6 +1,6 @@
 {
-    "latest_compatible_android_version": "7.2.8",
-    "compatible_android_sdk": "https://fyber.bintray.com/maven/com/sponsorpay/sponsorpay-android-sdk/7.2.7/sponsorpay-android-sdk-7.2.7.aar",
-    "latest_compatible_ios_version": "7.2.7",
-    "compatible_ios_sdk": "https://bintray.com/artifact/download/fyber/mobile-sdk/Fyber_iOS_SDK_v.7.2.6.zip"
+    "latest_compatible_android_version": "7.2.5",
+    "compatible_android_sdk": "https://fyber.bintray.com/maven/com/sponsorpay/sponsorpay-android-sdk/7.2.5/sponsorpay-android-sdk-7.2.5.aar",
+    "latest_compatible_ios_version": "7.2.5",
+    "compatible_ios_sdk": "https://bintray.com/artifact/download/fyber/mobile-sdk/Fyber_iOS_SDK_v.7.2.5.zip"
 }

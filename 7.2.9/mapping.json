@@ -5,5 +5,5 @@
     "compatibleIosVersion": "7.2.6",
     "compatibleIosSdkDownloadUrl": "https://bintray.com/artifact/download/fyber/mobile-sdk/Fyber_iOS_SDK_v.7.2.6.zip",
     "iOSZipName": "Fyber_iOS_SDK_v.7.2.6.zip",
-    "iOSPathToLib:":"Fyber_iOS_SDK_v.7.2.6/sponsorpay-sdk-lib/"
+    "iOSPathToLib":"Fyber_iOS_SDK_v.7.2.6/sponsorpay-sdk-lib/"
 }
